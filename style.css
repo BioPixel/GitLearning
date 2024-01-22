@@ -1,6 +1,9 @@
-*{
-
+@font-face {
+    font-family: Urdu;
+    src: url('./fonts/urdu.wof2');
 }
-html{
-    
+html, body{
+    font-family: Urdu;
+    font-weight: 700;
+    font-size: 18px;
 }
